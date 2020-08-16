@@ -1,0 +1,9 @@
+[
+    {"name": "Luu Duc Anh", "age": 20, "school": "HUST"},
+    {"name": "Nguyen Thanh Long", "age": 20, "school": "NUCE"},
+    {"name": "Vu Duc Tuyen", "age": 20, "school": "NEU"},
+    {"name": "Nguyen Duy Tung", "age": 20, "school": "NUCE"},
+    {"name": "Dang Dinh Long", "age": 20, "school": "NEU"},
+    {"name": "Pham Van Quan", "age": 20, "school": "HUST"},
+    {"name": "Dong Quang Minh", "age": 20, "school": "PTIT"}
+]
